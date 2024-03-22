@@ -71,7 +71,7 @@ html,body{
 #vertical-txt{
     position:absolute;
     transform: rotate(90deg);
-    right: -55%;
+    right: -50%;
     top: -9%;
     transform-origin: 0% 0%;
     
